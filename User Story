@@ -1,0 +1,10 @@
+User: 
+    Twitter users
+    Researchers
+User stories:
+    I, as a twitter user, want to retrieve retweets and replies from the tweet ID.
+    I, as a researcher, want to see the result of sentiment analysis of Quote tweets.
+MVP:
+    extract quote retweets and replies with tweet ID
+    analyze sentiment of quote tweets and replies
+    convert the sentiment score into the percentage of positive, negative and neutral responses
