@@ -10,6 +10,6 @@ Phase 2: Completion
             TweetID: 1451354572933550081
         output: 
             The result of sentiment analysis of replies and quote tweets for the tweet
-            positive🙂:  28 %
-            negative🙁:  0 %
-            neutral😐:  71 %
+            positive:  31 %
+            negative:  0 %
+            neutral:  69 %
